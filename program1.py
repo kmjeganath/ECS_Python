@@ -1,4 +1,4 @@
-print("Hi, please enter temperature in celsius")
+print("Hi, please enter temp. in celsius")
 cel = float(input())
 #cel = int(input()) //Only work if the input is integer.
 #cel = input() //default data type is string
